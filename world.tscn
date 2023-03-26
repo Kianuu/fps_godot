@@ -3,7 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://c4b44i5g28w5g" path="res://environment/raw_assets/grass_lowres.png" id="1_12j07"]
 [ext_resource type="PackedScene" uid="uid://dtwhay37k01kp" path="res://assets/shed.tscn" id="1_rnog4"]
 [ext_resource type="PackedScene" uid="uid://dw8kai4yvwnc7" path="res://assets/brickwall.glb" id="3_phjkq"]
-[ext_resource type="PackedScene" uid="uid://b1duqpgrr6goi" path="res://player/player.tscn" id="4_i2fn2"]
+[ext_resource type="PackedScene" uid="uid://bah1c6k85cdn2" path="res://characters/player/player.tscn" id="4_i2fn2"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_ux0tf"]
 sky_top_color = Color(0.027451, 0.227451, 0.305882, 1)
